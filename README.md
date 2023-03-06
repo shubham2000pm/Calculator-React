@@ -1,6 +1,6 @@
 # react-calculator
 
-    React Calculator App: https://shubham2000pm.github.io/Calculator-React/
+   https://shubham2000pm.github.io/Calculator-React/
 
 # Video tutorial
 
